@@ -8,5 +8,5 @@ Harmonogram, důležíté informace a deadliny naleznete na [LMS](https://lms.vs
 
 ---
 
-Veškeré díky majitelém a tvůrcům [Lectures on scientific computing with Python](http://github.com/jrjohansson/scientific-python-lectures) a [numerical_python_course](https://gitlab.com/coobas/numerical_python_course), mnoho materiálů je převzato z jejich repozitářů.
+Veškeré díky majitelům a tvůrcům [Lectures on scientific computing with Python](http://github.com/jrjohansson/scientific-python-lectures) a [numerical_python_course](https://gitlab.com/coobas/numerical_python_course), mnoho materiálů je převzato z jejich repozitářů.
 
